@@ -1,0 +1,17 @@
+
+body{
+	background-image: url('http://dsim.in/blog/wp-content/uploads/2016/02/wikipedia.jpg');
+	background-repeat: no-repeat;
+	
+	background-position: center 320px;
+	background-attachment: fixed;
+}
+.info{
+	margin-top: 10px;
+}
+h1{
+	font-family: Georgia;
+}
+img{
+	background-attachment: fixed;
+}
